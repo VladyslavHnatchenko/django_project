@@ -1,0 +1,6 @@
+.idea/
+venv/
+migrations/
+__pycache__/
+static_cdn/
+trydjango19/trydjango19/__pycache__/
