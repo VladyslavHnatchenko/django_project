@@ -4,3 +4,4 @@ migrations/
 __pycache__/
 static_cdn/
 trydjango19/trydjango19/__pycache__/
+media_cdn/
