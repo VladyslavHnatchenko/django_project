@@ -84,6 +84,3 @@ def post_delete(request, id=None):
     instance.delete()
     messages.success(request, "Successfully deleted")
     return redirect("posts:list")
-
-
-
